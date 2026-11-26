@@ -63,6 +63,32 @@ I'm **Rucha Keskar**, a third-year B.Tech Computer Engineering student at **IITM
 
 ---
 
+## 🖼️ Gallery
+
+### 🚁 Drones & Robotics
+
+<table>
+<tr><td align="center" width="50%"><img src="gallery/01-drone-build.jpg" width="100%" alt="Drone build"><br><sub><b>Drone build</b></sub></td><td align="center" width="50%"><img src="gallery/02-aarogya-drone-thermal.jpg" width="100%" alt="Aarogya Mitra drone with thermal feed"><br><sub><b>Aarogya Mitra drone with thermal feed</b></sub></td></tr>
+<tr><td align="center" width="50%"><img src="gallery/03-drone-soldering-workshop.jpg" width="100%" alt="Drone assembly workshop"><br><sub><b>Drone assembly workshop</b></sub></td><td align="center" width="50%"><img src="gallery/13-fixed-wing-drone.jpg" width="100%" alt="Fixed-wing drone"><br><sub><b>Fixed-wing drone</b></sub></td></tr>
+<tr><td align="center" width="50%"><img src="gallery/09-agriveer-drone-lab.jpg" width="100%" alt="AgriVeer drone lab"><br><sub><b>AgriVeer drone lab</b></sub></td><td align="center" width="50%"><img src="gallery/11-drone-lab-workbench.jpg" width="100%" alt="Drone lab workbench"><br><sub><b>Drone lab workbench</b></sub></td></tr>
+<tr><td align="center" width="50%"><img src="gallery/10-drone-lab-team.jpg" width="100%" alt="Drone lab team"><br><sub><b>Drone lab team</b></sub></td><td align="center" width="50%"><img src="gallery/14-dev-workstation.jpg" width="100%" alt="Development workstation"><br><sub><b>Development workstation</b></sub></td></tr>
+</table>
+
+### 💻 AI & Software Projects
+
+<table>
+<tr><td align="center" width="50%"><img src="gallery/04-geoharvest-dashboard.png" width="100%" alt="GeoHarvest: AI crop and irrigation dashboard"><br><sub><b>GeoHarvest: AI crop and irrigation dashboard</b></sub></td><td align="center" width="50%"><img src="gallery/05-ecoverse-carbon-tree-ui.png" width="100%" alt="ECOVERSE and Carbon Tree UI"><br><sub><b>ECOVERSE and Carbon Tree UI</b></sub></td></tr>
+</table>
+
+### 🏆 Awards & Events
+
+<table>
+<tr><td align="center" width="50%"><img src="gallery/06-award-ceremony.jpg" width="100%" alt="Award ceremony"><br><sub><b>Award ceremony</b></sub></td><td align="center" width="50%"><img src="gallery/07-ai-ml-team-medal.jpg" width="100%" alt="AI/ML Team medal"><br><sub><b>AI/ML Team medal</b></sub></td></tr>
+<tr><td align="center" width="50%"><img src="gallery/08-gdg-certificate.jpg" width="100%" alt="GDG Cloud Study Jams certificate"><br><sub><b>GDG Cloud Study Jams certificate</b></sub></td><td align="center" width="50%"><img src="gallery/12-team-selfie-drone-lab.jpg" width="100%" alt="Team at the drone lab"><br><sub><b>Team at the drone lab</b></sub></td></tr>
+</table>
+
+---
+
 ## 🚀 Projects
 
 More coming soon.
