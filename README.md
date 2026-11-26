@@ -60,7 +60,7 @@ HOW TO EDIT THIS FILE
 ### Project name
 One sentence about what it does.
 Built with: Python, YOLO
-🔗 [Code](https://github.com/yourusername/project-name)
+🔗 [Code](https://github.com/ruchakeskar-csengineer/project1)
 
 -->
 
@@ -72,5 +72,5 @@ Built with: Python, YOLO
 
 <!-- TODO: add or delete any link you don't want to share -->
 
-- 📧 Email: <!-- TODO: your-email@example.com -->
-- 💼 LinkedIn: <!-- TODO: https://linkedin.com/in/your-profile -->
+- 📧 Email: <!-- roselleglow.in@gmail.com   rucha4039@gmail.com -->
+- 💼 LinkedIn: <!-- www.linkedin.com/in/ruchakeskar  -->
