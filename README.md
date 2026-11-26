@@ -1,9 +1,4 @@
-<!--
-HOW TO EDIT THIS FILE
-- Text between <!-- and --> is a hidden note. GitHub won't show it.
-- Anything marked TODO is a placeholder. Replace it or delete it.
-- To change the banner, edit banner.svg in VS Code and change the words.
--->
+
 
 <p align="center">
   <img src="banner.svg" alt="Rucha Keskar: computer vision, drones, robotics, and machine learning" width="100%">
