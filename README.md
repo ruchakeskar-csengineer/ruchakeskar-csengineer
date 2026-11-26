@@ -1,4 +1,9 @@
-
+<!--
+HOW TO EDIT THIS FILE
+- Text between <!-- and --> is a hidden note. GitHub won't show it.
+- Anything marked TODO is a placeholder. Replace it or delete it.
+- To change the banner, edit banner.svg in VS Code and change the words.
+-->
 
 <p align="center">
   <img src="banner.svg" alt="Rucha Keskar: computer vision, drones, robotics, and machine learning" width="100%">
@@ -60,15 +65,7 @@ I'm **Rucha Keskar**, a third-year B.Tech Computer Engineering student at **IITM
 
 ## 🚀 Projects
 
-> 🚧 **More projects coming soon.** I'm building in computer vision, drones, and machine learning.
-
-| 🧪 Project | 📝 What it does | 🛠️ Built with | 🔗 Link |
-|---|---|---|---|
-| 🚁 Drone search & rescue (SIH 2026) | Mother-child drone system for search and rescue (team project) | <!-- TODO --> | <!-- TODO --> |
-| 👁️ YOLO detection project | <!-- TODO: one line about what it detects --> | YOLO, Python | <!-- TODO --> |
-| 🌐 Web project | <!-- TODO: one line --> | HTML, CSS, JavaScript | <!-- TODO --> |
-
-<!-- TODO: delete any row you don't have yet. Don't leave empty rows. -->
+More coming soon.
 
 ---
 
